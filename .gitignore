@@ -1,0 +1,9 @@
+# Modified from https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/
+# Ignore the build and lib dirs
+build
+
+# Ignore any executables
+bin/*
+
+# Ignore Mac specific files
+.DS_Store
